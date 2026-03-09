@@ -1,14 +1,14 @@
 {
-  "latest_version": "1.0.6",
-  "download_url": "https://raw.githubusercontent.com/mrtslhgcl/Barcode-Program-Updates/main/HiandcoTechERP_Setup_v1.0.6.exe",
-  "sha256": "88e265661885e7f05ae2cefebd9fc703c8410ab79871bbeb208b8c2fa691272e",
-  "notes": "v1.0.6: [TEST] Auto-update worker fix test versiyonu.",
+  "latest_version": "1.0.7",
+  "download_url": "https://raw.githubusercontent.com/mrtslhgcl/Barcode-Program-Updates/main/HiandcoTechERP_Setup_v1.0.7.exe",
+  "sha256": "b9ec075b566fcb71fbe7b64639303e82402775b46f2fcf13a9cb4755f7c1c600",
+  "notes": "v1.0.7: [TEST] VBS auto-update fix test.",
   "force": false,
   "channels": {
     "stable": {
-      "download_url": "https://raw.githubusercontent.com/mrtslhgcl/Barcode-Program-Updates/main/HiandcoTechERP_Setup_v1.0.6.exe",
-      "sha256": "88e265661885e7f05ae2cefebd9fc703c8410ab79871bbeb208b8c2fa691272e",
-      "notes": "v1.0.6: [TEST] Auto-update worker fix test versiyonu.",
+      "download_url": "https://raw.githubusercontent.com/mrtslhgcl/Barcode-Program-Updates/main/HiandcoTechERP_Setup_v1.0.7.exe",
+      "sha256": "b9ec075b566fcb71fbe7b64639303e82402775b46f2fcf13a9cb4755f7c1c600",
+      "notes": "v1.0.7: [TEST] VBS auto-update fix test.",
       "force": false
     }
   }
