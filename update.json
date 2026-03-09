@@ -1,14 +1,14 @@
 {
-  "latest_version": "1.0.2",
-  "download_url": "https://raw.githubusercontent.com/mrtslhgcl/Barcode-Program-Updates/main/HiandcoTechERP_Setup_v1.0.2.exe",
-  "sha256": "012503fcea543fb8cfca67e06beef3d5a6420161959c766e687adc125f88ec1b",
-  "notes": "v1.0.2: Sürüm kontrolü ve otomatik güncelleme eklendi.",
+  "latest_version": "1.0.3",
+  "download_url": "https://raw.githubusercontent.com/mrtslhgcl/Barcode-Program-Updates/main/HiandcoTechERP_Setup_v1.0.3.exe",
+  "sha256": "bfd4bbdf41552fcd3cdb351d7328d1824e3d179d8e011367b29799852d665c25",
+  "notes": "v1.0.3: Özelleştirilebilir barkod etiket sistemi eklendi. Etiket şablonları oluşturup düzenleyebilir, ürünler için barkodlu etiket yazdırabilirsiniz.",
   "force": false,
   "channels": {
     "stable": {
-      "download_url": "https://raw.githubusercontent.com/mrtslhgcl/Barcode-Program-Updates/main/HiandcoTechERP_Setup_v1.0.2.exe",
-      "sha256": "012503fcea543fb8cfca67e06beef3d5a6420161959c766e687adc125f88ec1b",
-      "notes": "v1.0.2: Sürüm kontrolü ve otomatik güncelleme eklendi.",
+      "download_url": "https://raw.githubusercontent.com/mrtslhgcl/Barcode-Program-Updates/main/HiandcoTechERP_Setup_v1.0.3.exe",
+      "sha256": "bfd4bbdf41552fcd3cdb351d7328d1824e3d179d8e011367b29799852d665c25",
+      "notes": "v1.0.3: Özelleştirilebilir barkod etiket sistemi eklendi. Etiket şablonları oluşturup düzenleyebilir, ürünler için barkodlu etiket yazdırabilirsiniz.",
       "force": false
     }
   }
