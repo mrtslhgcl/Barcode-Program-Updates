@@ -1,0 +1,15 @@
+{
+  "latest_version": "1.0.2",
+  "download_url": "https://raw.githubusercontent.com/mrtslhgcl/Barcode-Program-Updates/main/HiandcoTechERP_Setup_v1.0.2.exe",
+  "sha256": "012503fcea543fb8cfca67e06beef3d5a6420161959c766e687adc125f88ec1b",
+  "notes": "v1.0.2: Sürüm kontrolü ve otomatik güncelleme eklendi.",
+  "force": false,
+  "channels": {
+    "stable": {
+      "download_url": "https://raw.githubusercontent.com/mrtslhgcl/Barcode-Program-Updates/main/HiandcoTechERP_Setup_v1.0.2.exe",
+      "sha256": "012503fcea543fb8cfca67e06beef3d5a6420161959c766e687adc125f88ec1b",
+      "notes": "v1.0.2: Sürüm kontrolü ve otomatik güncelleme eklendi.",
+      "force": false
+    }
+  }
+}
