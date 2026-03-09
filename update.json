@@ -1,14 +1,14 @@
 {
   "latest_version": "1.0.8",
-  "download_url": "https://raw.githubusercontent.com/mrtslhgcl/Barcode-Program-Updates/main/HiandcoTechERP_Setup_v1.0.7.exe",
-  "sha256": "b9ec075b566fcb71fbe7b64639303e82402775b46f2fcf13a9cb4755f7c1c600",
-  "notes": "v1.0.8: [TEST] Auto-update akışı doğrulama.",
+  "download_url": "https://raw.githubusercontent.com/mrtslhgcl/Barcode-Program-Updates/main/HiandcoTechERP_Setup_v1.0.8.exe",
+  "sha256": "B99EFD2D7B831AD7011531262B0D3FE31CB5E80C487E04AB6438C051985F6C3E",
+  "notes": "v1.0.8: Kapsamlı loglama sistemi, barkod etiket düzeltmeleri, otomatik güncelleme iyileştirmeleri.",
   "force": false,
   "channels": {
     "stable": {
-      "download_url": "https://raw.githubusercontent.com/mrtslhgcl/Barcode-Program-Updates/main/HiandcoTechERP_Setup_v1.0.7.exe",
-      "sha256": "b9ec075b566fcb71fbe7b64639303e82402775b46f2fcf13a9cb4755f7c1c600",
-      "notes": "v1.0.8: [TEST] Auto-update akışı doğrulama.",
+      "download_url": "https://raw.githubusercontent.com/mrtslhgcl/Barcode-Program-Updates/main/HiandcoTechERP_Setup_v1.0.8.exe",
+      "sha256": "B99EFD2D7B831AD7011531262B0D3FE31CB5E80C487E04AB6438C051985F6C3E",
+      "notes": "v1.0.8: Kapsamlı loglama sistemi, barkod etiket düzeltmeleri, otomatik güncelleme iyileştirmeleri.",
       "force": false
     }
   }
